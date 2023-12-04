@@ -1,3 +1,6 @@
 [submodule "flask-app/my-react-app/my-react-app"]
 	path = flask-app/my-react-app/my-react-app
 	url = https://github.com/IgorGutkowski/nonverb-test.git
+[submodule "nonverb-repo"]
+	path = nonverb-repo
+	url = https://github.com/IgorGutkowski/nonverb-repo.git
